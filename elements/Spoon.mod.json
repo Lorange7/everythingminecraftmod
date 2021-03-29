@@ -1,0 +1,85 @@
+{
+  "_fv": 17,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "spoon",
+    "customModelName": "Normal",
+    "name": "Spoon",
+    "specialInfo": [
+      "a spoon"
+    ],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Special",
+    "harvestLevel": 2,
+    "efficiency": 6.0,
+    "attackSpeed": 1.0,
+    "enchantability": 2,
+    "damageVsEntity": 4.0,
+    "usageCount": 100,
+    "blocksAffected": [
+      {
+        "value": "Blocks.CAKE"
+      },
+      {
+        "value": "Blocks.LEAVES"
+      },
+      {
+        "value": "Blocks.LEAVES#1"
+      },
+      {
+        "value": "Blocks.LEAVES#2"
+      },
+      {
+        "value": "Blocks.LEAVES#3"
+      },
+      {
+        "value": "Blocks.LEAVES2"
+      },
+      {
+        "value": "Blocks.LEAVES2#1"
+      },
+      {
+        "value": "Blocks.MELON_BLOCK"
+      },
+      {
+        "value": "Blocks.DRAGON_EGG"
+      },
+      {
+        "value": "Blocks.PUMPKIN"
+      },
+      {
+        "value": "Blocks.CARVED_PUMPKIN"
+      },
+      {
+        "value": "Blocks.LIT_PUMPKIN"
+      },
+      {
+        "value": "Blocks.HONEYCOMB_BLOCK"
+      },
+      {
+        "value": "Blocks.HONEY_BLOCK"
+      },
+      {
+        "value": "Blocks.BAMBOO"
+      },
+      {
+        "value": "Blocks.BAMBOO_SAPLING"
+      },
+      {
+        "value": "Blocks.POTTED_BAMBOO"
+      }
+    ],
+    "hasGlow": true,
+    "repairItems": [
+      {
+        "value": "Items.IRON_INGOT"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

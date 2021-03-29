@@ -1,0 +1,53 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Fly",
+      "type": "keybind",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fly"
+    },
+    {
+      "name": "Spoon",
+      "type": "tool",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spoon"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.everything.spoon": "Spoon",
+      "key.everything.fly": "Fly"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "everything",
+    "modName": "everything",
+    "version": "1.0.0",
+    "author": "anthonybrewood, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.lorange.seven.everything",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100112313
+}
