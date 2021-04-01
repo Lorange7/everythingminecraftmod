@@ -1,0 +1,7 @@
+{
+  "parent": "everything:custom/fuel_canister",
+  "textures": {
+    "003C00": "everything:blocks/",
+    "particle": "everything:items/canister"
+  }
+}

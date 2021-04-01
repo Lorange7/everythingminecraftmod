@@ -18,6 +18,42 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "spoon"
+    },
+    {
+      "name": "Petroliumspirit",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "petroliumspirit"
+    },
+    {
+      "name": "Fuelcanister",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fuelcanister"
+    },
+    {
+      "name": "Petrol",
+      "type": "tab",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "petrol"
+    },
+    {
+      "name": "Petrolium",
+      "type": "fuel",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "petrolium"
     }
   ],
   "variable_elements": [],
@@ -25,6 +61,9 @@
   "language_map": {
     "en_us": {
       "item.everything.spoon": "Spoon",
+      "item.everything.petroliumspirit": "petrolium spirit",
+      "item.everything.fuelcanister": "empty petrol canister",
+      "itemGroup.tabpetrol": "refineable materials",
       "key.everything.fly": "Fly"
     }
   },

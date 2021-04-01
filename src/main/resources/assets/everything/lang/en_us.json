@@ -1,4 +1,7 @@
 {
   "item.everything.spoon": "Spoon",
+  "item.everything.petroliumspirit": "petrolium spirit",
+  "item.everything.fuelcanister": "empty petrol canister",
+  "itemGroup.tabpetrol": "refineable materials",
   "key.everything.fly": "Fly"
 }

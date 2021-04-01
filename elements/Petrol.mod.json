@@ -1,0 +1,11 @@
+{
+  "_fv": 17,
+  "_type": "tab",
+  "definition": {
+    "name": "refineable materials",
+    "icon": {
+      "value": "CUSTOM:Fuelcanister"
+    },
+    "showSearch": true
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_fv": 17,
+  "_type": "item",
+  "definition": {
+    "renderType": 1,
+    "texture": "canister",
+    "customModelName": "fuel_canister:default",
+    "name": "petrolium spirit",
+    "rarity": "EPIC",
+    "creativeTab": {
+      "value": "CUSTOM:Petrol"
+    },
+    "stackSize": 64,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 0.5,
+    "damageCount": 0,
+    "recipeRemainder": {
+      "value": "CUSTOM:Fuelcanister"
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": true,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "petrolium spirit; informaly known as petrol or gasoline"
+    ],
+    "hasGlow": false,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 1
+  }
+}
