@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "everything:oil",
+    "everything:oil_flowing"
+  ]
+}

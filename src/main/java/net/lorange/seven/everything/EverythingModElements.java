@@ -45,6 +45,8 @@ public class EverythingModElements {
 	public final List<Supplier<Enchantment>> enchantments = new ArrayList<>();
 	public static Map<ResourceLocation, net.minecraft.util.SoundEvent> sounds = new HashMap<>();
 	public EverythingModElements() {
+		sounds.put(new ResourceLocation("everything", "radio_static"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("everything", "radio_static")));
 		try {
 			ModFileScanData modFileInfo = ModList.get().getModFileById("everything").getFile().getScanResult();
 			Set<ModFileScanData.AnnotationData> annotations = modFileInfo.getAnnotations();

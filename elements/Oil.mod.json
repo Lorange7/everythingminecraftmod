@@ -1,0 +1,39 @@
+{
+  "_fv": 17,
+  "_type": "fluid",
+  "definition": {
+    "name": "Oil",
+    "textureStill": "oil",
+    "textureFlowing": "oil",
+    "luminosity": 0,
+    "density": 1500,
+    "viscosity": 1000,
+    "isGas": false,
+    "type": "WATER",
+    "generateBucket": true,
+    "creativeTab": {
+      "value": "CUSTOM:Petrol"
+    },
+    "frequencyOnChunks": 1,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "badlands_plateau"
+      },
+      {
+        "value": "badlands"
+      },
+      {
+        "value": "mutated_mesa"
+      },
+      {
+        "value": "mutated_mesa_rock"
+      },
+      {
+        "value": "mutated_mesa_clear_rock"
+      }
+    ]
+  }
+}

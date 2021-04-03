@@ -1,7 +1,15 @@
 {
-  "item.everything.spoon": "Spoon",
+  "item.everything.wipplaceholder": "WIPPLACEHOLDER",
   "item.everything.petroliumspirit": "petrolium spirit",
   "item.everything.fuelcanister": "empty petrol canister",
-  "itemGroup.tabpetrol": "refineable materials",
-  "key.everything.fly": "Fly"
+  "item.everything.oilcow_spawn_egg": "Oil cow Spawn Egg",
+  "entity.everything.oilcow": "Oil cow",
+  "fluid.oil": "Oil",
+  "item.everything.oil_bucket": "Oil Bucket",
+  "key.everything.fly": "Fly",
+  "block.everything.plasticscrap": "block of plastic scrap",
+  "item.everything.spoon": "Spoon",
+  "item.everything.plasticscrapitem": "Plastic scrap",
+  "subtitles.radio_static": "",
+  "itemGroup.tabrefinable_materials": "refineable materials"
 }

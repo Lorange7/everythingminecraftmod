@@ -1,1 +1,11 @@
-{}
+{
+  "radio_static": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "everything:203187__shigeruborg__radio-static-sound-effect",
+        "stream": false
+      }
+    ]
+  }
+}

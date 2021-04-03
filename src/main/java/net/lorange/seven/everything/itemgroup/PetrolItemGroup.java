@@ -18,7 +18,7 @@ public class PetrolItemGroup extends EverythingModElements.ModElement {
 
 	@Override
 	public void initElements() {
-		tab = new ItemGroup("tabpetrol") {
+		tab = new ItemGroup("tabrefinable_materials") {
 			@OnlyIn(Dist.CLIENT)
 			@Override
 			public ItemStack createIcon() {

@@ -44,7 +44,7 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "petrol"
+      "registry_name": "refinable_materials"
     },
     {
       "name": "Petrolium",
@@ -54,17 +54,105 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "petrolium"
+    },
+    {
+      "name": "Oil",
+      "type": "fluid",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oil"
+    },
+    {
+      "name": "OilcoveredbeefFoodEaten",
+      "type": "procedure",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oilcoveredbeef_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Oilcow",
+      "type": "mob",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oilcow"
+    },
+    {
+      "name": "Oilishstuff",
+      "type": "particle",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oilishstuff"
+    },
+    {
+      "name": "Plasticscrapitem",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plasticscrapitem"
+    },
+    {
+      "name": "Plasticscrap",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plasticscrap"
+    },
+    {
+      "name": "WIPPLACEHOLDER",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wipplaceholder"
     }
   ],
   "variable_elements": [],
-  "sound_elements": [],
+  "sound_elements": [
+    {
+      "name": "radio_static",
+      "files": [
+        "203187__shigeruborg__radio-static-sound-effect"
+      ],
+      "category": "master",
+      "subtitle": ""
+    }
+  ],
   "language_map": {
     "en_us": {
-      "item.everything.spoon": "Spoon",
+      "item.everything.wipplaceholder": "WIPPLACEHOLDER",
       "item.everything.petroliumspirit": "petrolium spirit",
       "item.everything.fuelcanister": "empty petrol canister",
-      "itemGroup.tabpetrol": "refineable materials",
-      "key.everything.fly": "Fly"
+      "item.everything.oilcow_spawn_egg": "Oil cow Spawn Egg",
+      "entity.everything.oilcow": "Oil cow",
+      "fluid.oil": "Oil",
+      "item.everything.oil_bucket": "Oil Bucket",
+      "key.everything.fly": "Fly",
+      "block.everything.plasticscrap": "block of plastic scrap",
+      "item.everything.spoon": "Spoon",
+      "item.everything.plasticscrapitem": "Plastic scrap",
+      "subtitles.radio_static": "",
+      "itemGroup.tabrefinable_materials": "refineable materials"
     }
   },
   "foldersRoot": {

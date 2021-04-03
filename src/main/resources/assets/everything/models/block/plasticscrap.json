@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "everything:blocks/plastic",
+    "up": "everything:blocks/plastic",
+    "north": "everything:blocks/plastic",
+    "east": "everything:blocks/plastic",
+    "south": "everything:blocks/plastic",
+    "west": "everything:blocks/plastic",
+    "particle": "everything:blocks/plastic"
+  }
+}
