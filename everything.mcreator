@@ -125,6 +125,45 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "wipplaceholder"
+    },
+    {
+      "name": "Wastelandbiome",
+      "type": "biome",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wastelandbiome"
+    },
+    {
+      "name": "Nanoroboticwormholegeneratorblock",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nanoroboticwormholegeneratorblock"
+    },
+    {
+      "name": "Nanorobotics",
+      "type": "tab",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nanorobotics"
+    },
+    {
+      "name": "Wasteland",
+      "type": "dimension",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wasteland",
+      "metadata": {
+        "ep": true
+      }
     }
   ],
   "variable_elements": [],
@@ -141,8 +180,10 @@
   "language_map": {
     "en_us": {
       "item.everything.wipplaceholder": "WIPPLACEHOLDER",
+      "biome.everything.wastelandbiome": "Wasteland biome",
       "item.everything.petroliumspirit": "petrolium spirit",
       "item.everything.fuelcanister": "empty petrol canister",
+      "itemGroup.tabnanorobotics": "Nanorobotics",
       "item.everything.oilcow_spawn_egg": "Oil cow Spawn Egg",
       "entity.everything.oilcow": "Oil cow",
       "fluid.oil": "Oil",
@@ -151,7 +192,9 @@
       "block.everything.plasticscrap": "block of plastic scrap",
       "item.everything.spoon": "Spoon",
       "item.everything.plasticscrapitem": "Plastic scrap",
+      "block.everything.nanoroboticwormholegeneratorblock": "Nano robotic wormholegeneratorblock",
       "subtitles.radio_static": "",
+      "item.everything.wasteland": "nanorobotic activation device",
       "itemGroup.tabrefinable_materials": "refineable materials"
     }
   },

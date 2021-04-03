@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "everything:block/wasteland_portal_ew"
+    },
+    "axis=x": {
+      "model": "everything:block/wasteland_portal_ns"
+    }
+  }
+}

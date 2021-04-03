@@ -1,7 +1,9 @@
 {
   "item.everything.wipplaceholder": "WIPPLACEHOLDER",
+  "biome.everything.wastelandbiome": "Wasteland biome",
   "item.everything.petroliumspirit": "petrolium spirit",
   "item.everything.fuelcanister": "empty petrol canister",
+  "itemGroup.tabnanorobotics": "Nanorobotics",
   "item.everything.oilcow_spawn_egg": "Oil cow Spawn Egg",
   "entity.everything.oilcow": "Oil cow",
   "fluid.oil": "Oil",
@@ -10,6 +12,8 @@
   "block.everything.plasticscrap": "block of plastic scrap",
   "item.everything.spoon": "Spoon",
   "item.everything.plasticscrapitem": "Plastic scrap",
+  "block.everything.nanoroboticwormholegeneratorblock": "Nano robotic wormholegeneratorblock",
   "subtitles.radio_static": "",
+  "item.everything.wasteland": "nanorobotic activation device",
   "itemGroup.tabrefinable_materials": "refineable materials"
 }

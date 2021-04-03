@@ -1,0 +1,42 @@
+{
+  "_fv": 17,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:Wastelandbiome"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "Blocks.SANDSTONE#0"
+    },
+    "fluidBlock": {
+      "value": "Blocks.FLOWING_WATER"
+    },
+    "canRespawnHere": true,
+    "hasFog": false,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": false,
+    "portalFrame": {
+      "value": "CUSTOM:Nanoroboticwormholegeneratorblock"
+    },
+    "portalParticles": {
+      "value": "SMOKE_NORMAL"
+    },
+    "portalLuminance": 2,
+    "portalSound": {
+      "value": "CUSTOM:radio_static"
+    },
+    "igniterName": "nanorobotic activation device",
+    "igniterTab": {
+      "value": "TOOLS"
+    },
+    "texture": "iiw_remote",
+    "portalTexture": "wip",
+    "enablePortal": true
+  }
+}
