@@ -12,7 +12,7 @@ import net.minecraft.block.SoundType;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.Block;
 
-import net.lorange.seven.everything.itemgroup.PetrolItemGroup;
+import net.lorange.seven.everything.itemgroup.NanoroboticsItemGroup;
 import net.lorange.seven.everything.EverythingModElements;
 
 import java.util.List;
@@ -29,11 +29,12 @@ public class NanoroboticwormholegeneratorblockBlock extends EverythingModElement
 	@Override
 	public void initElements() {
 		elements.blocks.add(() -> new CustomBlock());
-		elements.items.add(() -> new BlockItem(block, new Item.Properties().group(PetrolItemGroup.tab)).setRegistryName(block.getRegistryName()));
+		elements.items
+				.add(() -> new BlockItem(block, new Item.Properties().group(NanoroboticsItemGroup.tab)).setRegistryName(block.getRegistryName()));
 	}
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
-			super(Block.Properties.create(Material.ROCK).sound(SoundType.GROUND).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0));
+			super(Block.Properties.create(Material.IRON).sound(SoundType.METAL).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0));
 			setRegistryName("nanoroboticwormholegeneratorblock");
 		}
 

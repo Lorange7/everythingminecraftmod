@@ -1,0 +1,31 @@
+{
+  "_fv": 17,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "wip",
+    "customModelName": "Normal",
+    "name": "Nanorobotic destablizer",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Nanorobotics"
+    },
+    "toolType": "Special",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.0,
+    "enchantability": 2,
+    "damageVsEntity": 3.0,
+    "usageCount": 0,
+    "blocksAffected": [
+      {
+        "value": "CUSTOM:Nanoroboticwormholegeneratorblock"
+      }
+    ],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

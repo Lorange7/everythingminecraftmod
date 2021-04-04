@@ -33,7 +33,7 @@
     },
     "igniterName": "nanorobotic activation device",
     "igniterTab": {
-      "value": "TOOLS"
+      "value": "CUSTOM:Nanorobotics"
     },
     "texture": "iiw_remote",
     "portalTexture": "wip",
