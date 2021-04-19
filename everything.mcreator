@@ -191,6 +191,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "cheeeeese"
+    },
+    {
+      "name": "Bottleofmilk",
+      "type": "food",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bottleofmilk"
+    },
+    {
+      "name": "Logo1x1",
+      "type": "painting",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "logo_1x_1"
     }
   ],
   "variable_elements": [],
@@ -206,6 +224,7 @@
   ],
   "language_map": {
     "en_us": {
+      "item.everything.bottleofmilk": "Bottle of milk",
       "item.everything.wipplaceholder": "WIPPLACEHOLDER",
       "biome.everything.wastelandbiome": "Wasteland biome",
       "item.everything.petroliumspirit": "petrolium spirit",
