@@ -7,5 +7,23 @@
         "stream": false
       }
     ]
+  },
+  "death": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "everything:minecraft-death-sound",
+        "stream": false
+      }
+    ]
+  },
+  "dinowalk": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "everything:food-crunching-sound-effect",
+        "stream": false
+      }
+    ]
   }
 }

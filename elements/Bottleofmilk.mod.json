@@ -14,8 +14,8 @@
       "value": "FOOD"
     },
     "stackSize": 64,
-    "nutritionalValue": 4,
-    "saturation": 0.3,
+    "nutritionalValue": 0,
+    "saturation": 0.0,
     "eatingSpeed": 32,
     "resultItem": {
       "value": "Items.GLASS_BOTTLE"
@@ -23,6 +23,9 @@
     "forDogs": false,
     "isAlwaysEdible": false,
     "animation": "drink",
-    "hasGlow": false
+    "hasGlow": false,
+    "onEaten": {
+      "name": "BottleofmilkFoodEaten"
+    }
   }
 }

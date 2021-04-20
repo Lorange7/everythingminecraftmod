@@ -1,0 +1,28 @@
+{
+  "_fv": 17,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "dino_nuggies",
+    "customModelName": "Normal",
+    "name": "Dino nuggies",
+    "rarity": "COMMON",
+    "specialInfo": [
+      "some dino shaped nuggets"
+    ],
+    "creativeTab": {
+      "value": "FOOD"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 9,
+    "saturation": 1.4000000000000001,
+    "eatingSpeed": 32,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": true,
+    "isAlwaysEdible": false,
+    "animation": "eat",
+    "hasGlow": false
+  }
+}

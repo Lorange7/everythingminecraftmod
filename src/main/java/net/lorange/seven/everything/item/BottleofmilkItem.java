@@ -17,9 +17,12 @@ import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.entity.LivingEntity;
 import net.minecraft.client.util.ITooltipFlag;
 
+import net.lorange.seven.everything.procedures.BottleofmilkFoodEatenProcedure;
 import net.lorange.seven.everything.EverythingModElements;
 
+import java.util.Map;
 import java.util.List;
+import java.util.HashMap;
 
 @EverythingModElements.ModElement.Tag
 public class BottleofmilkItem extends EverythingModElements.ModElement {
@@ -36,7 +39,7 @@ public class BottleofmilkItem extends EverythingModElements.ModElement {
 	public static class FoodItemCustom extends Item {
 		public FoodItemCustom() {
 			super(new Item.Properties().group(ItemGroup.FOOD).maxStackSize(64).rarity(Rarity.COMMON)
-					.food((new Food.Builder()).hunger(4).saturation(0.3f).build()));
+					.food((new Food.Builder()).hunger(0).saturation(0f).build()));
 			setRegistryName("bottleofmilk");
 		}
 
@@ -60,6 +63,14 @@ public class BottleofmilkItem extends EverythingModElements.ModElement {
 		public ItemStack onItemUseFinish(ItemStack itemstack, World world, LivingEntity entity) {
 			ItemStack retval = new ItemStack(Items.GLASS_BOTTLE, (int) (1));
 			super.onItemUseFinish(itemstack, world, entity);
+			double x = entity.getPosX();
+			double y = entity.getPosY();
+			double z = entity.getPosZ();
+			{
+				Map<String, Object> $_dependencies = new HashMap<>();
+				$_dependencies.put("entity", entity);
+				BottleofmilkFoodEatenProcedure.executeProcedure($_dependencies);
+			}
 			if (itemstack.isEmpty()) {
 				return retval;
 			} else {
