@@ -244,6 +244,33 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "milkbottle"
+    },
+    {
+      "name": "DINONUGGIE",
+      "type": "mob",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dinonuggie"
+    },
+    {
+      "name": "Cheeseblock",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cheeseblock"
+    },
+    {
+      "name": "Machinebow",
+      "type": "gun",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "machinebow"
     }
   ],
   "variable_elements": [],
@@ -285,7 +312,10 @@
       "item.everything.oil_bucket": "Oil Bucket",
       "item.everything.cheese": "Cheese",
       "item.everything.plasticscrapitem": "Plastic scrap",
+      "item.everything.dinonuggie_spawn_egg": "DINO NUGGIE Spawn Egg",
       "subtitles.death": "",
+      "block.everything.cheeseblock": "Cheeseblock",
+      "item.everything.machinebow": "Machinebow",
       "item.everything.wasteland": "nanorobotic activation device",
       "itemGroup.tabrefinable_materials": "refineable materials",
       "item.everything.wipplaceholder": "WIPPLACEHOLDER",
@@ -297,6 +327,7 @@
       "block.everything.plasticscrap": "block of plastic scrap",
       "item.everything.dinonuggies": "Dino nuggies",
       "item.everything.spoon": "Spoon",
+      "entity.everything.dinonuggie": "DINO NUGGIE",
       "advancements.cheeeeese.descr": "get cheese",
       "block.everything.nanoroboticwormholegeneratorblock": "Nano robotic wormhole generator",
       "subtitles.radio_static": ""

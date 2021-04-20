@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "everything:blocks/wip",
+    "up": "everything:blocks/wip",
+    "north": "everything:blocks/wip",
+    "east": "everything:blocks/wip",
+    "south": "everything:blocks/wip",
+    "west": "everything:blocks/wip",
+    "particle": "everything:blocks/wip"
+  }
+}
