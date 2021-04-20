@@ -1,0 +1,9 @@
+{
+  "forge_marker": 1,
+  "parent": "forge:item/default",
+  "loader": "forge:obj",
+  "model": "everything:models/item/desert_eagle_high_poly.obj",
+  "textures": {
+    "particle": "everything:items/wip"
+  }
+}

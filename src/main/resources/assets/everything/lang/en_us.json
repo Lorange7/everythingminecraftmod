@@ -1,6 +1,7 @@
 {
   "item.everything.bottleofmilk": "Bottle of milk",
   "biome.everything.wastelandbiome": "Wasteland biome",
+  "item.everything.deserteagle": "Desert eagle",
   "item.everything.fuelcanister": "empty petrol canister",
   "item.everything.petroliumspirit": "petrolium spirit",
   "advancements.cheeeeese.title": "CHEESE",
@@ -8,6 +9,7 @@
   "item.everything.nanoroboticdestablizer": "Nanorobotic destablizer",
   "item.everything.oil_bucket": "Oil Bucket",
   "item.everything.cheese": "Cheese",
+  "item.everything.caliberactionexpressbullet": "50 Caliber action express bullet",
   "item.everything.plasticscrapitem": "Plastic scrap",
   "item.everything.dinonuggie_spawn_egg": "DINO NUGGIE Spawn Egg",
   "subtitles.death": "",
@@ -17,6 +19,7 @@
   "itemGroup.tabrefinable_materials": "refineable materials",
   "item.everything.wipplaceholder": "WIPPLACEHOLDER",
   "itemGroup.tabnanorobotics": "Nanorobotics",
+  "item.everything.potatogun": "Potato bazooka",
   "subtitles.dinowalk": "",
   "entity.everything.oilcow": "Oil cow",
   "fluid.oil": "Oil",
