@@ -264,15 +264,6 @@
       "registry_name": "cheeseblock"
     },
     {
-      "name": "Machinebow",
-      "type": "gun",
-      "sortid": 18,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "machinebow"
-    },
-    {
       "name": "Caliberactionexpressbullet",
       "type": "item",
       "sortid": 19,
@@ -307,6 +298,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "weapons"
+    },
+    {
+      "name": "Cheeserecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cheeserecipe"
     }
   ],
   "variable_elements": [],
@@ -362,7 +362,6 @@
       "subtitles.death": "",
       "block.everything.cheeseblock": "Cheeseblock",
       "subtitles.deserteagleshooting": "",
-      "item.everything.machinebow": "Machinebow",
       "item.everything.wasteland": "nanorobotic activation device",
       "itemGroup.tabrefinable_materials": "refineable materials",
       "item.everything.wipplaceholder": "WIPPLACEHOLDER",

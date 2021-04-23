@@ -1,0 +1,9 @@
+{
+  "group": "everything",
+  "type": "minecraft:stonecutting",
+  "count": 9,
+  "ingredient": {
+    "item": "everything:cheeseblock"
+  },
+  "result": "everything:cheese"
+}
