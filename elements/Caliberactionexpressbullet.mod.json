@@ -5,10 +5,10 @@
     "renderType": 0,
     "texture": "wip",
     "customModelName": "Normal",
-    "name": "50 Caliber action express bullet",
+    "name": ".50 AE bullet",
     "rarity": "COMMON",
     "creativeTab": {
-      "value": "MISC"
+      "value": "CUSTOM:Weapons"
     },
     "stackSize": 64,
     "enchantability": 0,

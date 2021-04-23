@@ -298,6 +298,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "potatogun"
+    },
+    {
+      "name": "Weapons",
+      "type": "tab",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "weapons"
     }
   ],
   "variable_elements": [],
@@ -347,7 +356,7 @@
       "item.everything.nanoroboticdestablizer": "Nanorobotic destablizer",
       "item.everything.oil_bucket": "Oil Bucket",
       "item.everything.cheese": "Cheese",
-      "item.everything.caliberactionexpressbullet": "50 Caliber action express bullet",
+      "item.everything.caliberactionexpressbullet": ".50 AE bullet",
       "item.everything.plasticscrapitem": "Plastic scrap",
       "item.everything.dinonuggie_spawn_egg": "DINO NUGGIE Spawn Egg",
       "subtitles.death": "",
@@ -367,6 +376,7 @@
       "item.everything.dinonuggies": "Dino nuggies",
       "item.everything.spoon": "Spoon",
       "entity.everything.dinonuggie": "DINO NUGGIE",
+      "itemGroup.tabweapons": "Weapons and ammo",
       "advancements.cheeeeese.descr": "get cheese",
       "block.everything.nanoroboticwormholegeneratorblock": "Nano robotic wormhole generator",
       "subtitles.radio_static": ""

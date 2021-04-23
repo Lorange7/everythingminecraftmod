@@ -4,6 +4,6 @@
   "loader": "forge:obj",
   "model": "everything:models/item/desert_eagle_high_poly.obj",
   "textures": {
-    "particle": "everything:items/wip"
+    "particle": "everything:items/desert_eagle"
   }
 }

@@ -3,7 +3,7 @@
   "_type": "gun",
   "definition": {
     "renderType": 2,
-    "texture": "wip",
+    "texture": "desert_eagle",
     "customModelName": "desert_eagle_high_poly",
     "name": "Desert eagle",
     "specialInfo": [],
@@ -20,7 +20,7 @@
       "value": "CUSTOM:deserteagleshooting"
     },
     "hasGlow": false,
-    "animation": "bow",
+    "animation": "none",
     "enableMeleeDamage": false,
     "damageVsEntity": 0.0,
     "bulletPower": 1.0,
