@@ -49,6 +49,8 @@ public class EverythingModElements {
 				new net.minecraft.util.SoundEvent(new ResourceLocation("everything", "radio_static")));
 		sounds.put(new ResourceLocation("everything", "death"), new net.minecraft.util.SoundEvent(new ResourceLocation("everything", "death")));
 		sounds.put(new ResourceLocation("everything", "dinowalk"), new net.minecraft.util.SoundEvent(new ResourceLocation("everything", "dinowalk")));
+		sounds.put(new ResourceLocation("everything", "deserteagleshooting"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("everything", "deserteagleshooting")));
 		try {
 			ModFileScanData modFileInfo = ModList.get().getModFileById("everything").getFile().getScanResult();
 			Set<ModFileScanData.AnnotationData> annotations = modFileInfo.getAnnotations();

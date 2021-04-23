@@ -25,5 +25,14 @@
         "stream": false
       }
     ]
+  },
+  "deserteagleshooting": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "everything:89147__spartanx109__desert-eagle-fire",
+        "stream": false
+      }
+    ]
   }
 }

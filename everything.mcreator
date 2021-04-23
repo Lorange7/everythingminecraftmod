@@ -325,6 +325,14 @@
       ],
       "category": "master",
       "subtitle": ""
+    },
+    {
+      "name": "deserteagleshooting",
+      "files": [
+        "89147__spartanx109__desert-eagle-fire"
+      ],
+      "category": "master",
+      "subtitle": ""
     }
   ],
   "language_map": {
@@ -344,6 +352,7 @@
       "item.everything.dinonuggie_spawn_egg": "DINO NUGGIE Spawn Egg",
       "subtitles.death": "",
       "block.everything.cheeseblock": "Cheeseblock",
+      "subtitles.deserteagleshooting": "",
       "item.everything.machinebow": "Machinebow",
       "item.everything.wasteland": "nanorobotic activation device",
       "itemGroup.tabrefinable_materials": "refineable materials",

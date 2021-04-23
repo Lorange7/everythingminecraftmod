@@ -12,12 +12,12 @@
     },
     "stackSize": 1,
     "ammoItem": {
-      "value": ""
+      "value": "CUSTOM:Caliberactionexpressbullet"
     },
     "shootConstantly": false,
-    "usageCount": 100,
+    "usageCount": 0,
     "actionSound": {
-      "value": "entity.arrow.shoot"
+      "value": "CUSTOM:deserteagleshooting"
     },
     "hasGlow": false,
     "animation": "bow",
